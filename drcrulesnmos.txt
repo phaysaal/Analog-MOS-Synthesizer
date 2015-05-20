@@ -1,0 +1,6 @@
+MINWIDTH:OD:0.6		//Min width of OD region for the width of NMOS or PMOS 0.6
+MINSPACE:OD:0.9		//Min space between two OD regions(both regions are either inside or outside a N-well) 0.9
+MINWIDTH:POLY 1:0.5	//Min width of a PO region for the channel length of LV NMOS & LV PMOS 0.5
+MINDIST:OD:POLY 1:0.5
+MINSPACE:POLY 1:0.5	//Min space between two PO 0.5
+MIN

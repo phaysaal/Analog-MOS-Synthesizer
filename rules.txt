@@ -1,0 +1,46 @@
+r101 = 10    (well width)
+r102 = 11    (well spacing)
+*
+* Diffusion
+*
+r201 = 4     (diffusion width)
+r202 = 4     (diffusion spacing)
+r203 = 6     (border of nwell on diffp)
+r204 = 6     (nwell to next diffn)
+r205 = 0     (diffn to diffp)
+r210 = 16    (Minimum diff surface lambda2)
+*
+* Poly
+*
+r301 = 2     (poly width)
+r302 = 2     (gate length)
+r303 = 4     (high voltage gate length)
+r304 = 3     (poly spacing)
+r305 = 1     (spacing poly and unrelated diff)
+r306 = 4     (width of drain and source diff)
+r307 = 3     (extra gate poly)
+r310 = 16    (Minimum poly surface lambda2)
+*
+* Poly 2
+*
+r311 = 2     (poly2 width)
+r312 = 2     (poly2 spacing)
+*
+* Contact
+r401 = 2     (contact width)
+r402 = 4     (contact spacing)
+r403 = 1     (metal border for contact)
+r404 = 1     (poly border for contact)
+r405 = 1     (diff border for contact)
+r406 = 2     (contact to gate)
+r407 = 1     (poly2 border for contact)
+*
+*  metal
+r501 = 3    (metal width)
+r502 = 4    (metal spacing)
+r510 = 16    (minimum surface)
+*  via
+r601 = 2    (Via width)
+r602 = 4    (Spacing)
+r604 = 1    (border of metal)
+r605 = 1    (border of metal2)

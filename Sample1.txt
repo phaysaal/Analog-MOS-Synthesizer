@@ -1,0 +1,5 @@
+1,04-07-2007;OD & POLY 1 & NIMP & CONT & METAL;
+POLY 1-a,POLY 1,Length-Dafault-Single,Auto-Auto-Single &
+OD-a,OD,Auto-Auto-Single,Width-Default-Single &
+OD-b,NIMP,Auto-
+;
